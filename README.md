@@ -1,4 +1,5 @@
 Description:
+
 You are contributing to the development of a pipeline to parse medical documents within an archive. All documents of a single patient are appended in one file in a random order. The documents can have the following origins: scans of printed documents (e.g. doctor letters, medication plans, printed lab results), scans of medical images (e.g. sonography-images or electrocardiograms [ECG]), programatically generated PDF-documents (e.g. letters, reports, lab reports, ECGs,  etc.) which were sent to the archive. It is possible that documents appear as single files (one document, single file) but it can also appear that a collection of paper documents (e..g 3 letters, lab results, medication plans) were scanned into one file and uploaded into a single file (multiple documents, single file).
 
 Must-do task:
