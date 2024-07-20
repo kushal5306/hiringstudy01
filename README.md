@@ -25,4 +25,4 @@ Rating criteria:
 - Dependence on third-party software / frameworks
 - Code cleanliness, code documentation (e.g. DocString, Go Doc, rustdoc …)
 
-  We are well aware that these tasks may require significant work. Aim to implement the best possible solution given the time and ressource constraints. 
+We are well aware that these tasks may require significant work. Aim to implement the best possible solution given the time and ressource constraints. 
