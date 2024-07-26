@@ -1,0 +1,8 @@
+PyMuPDF
+pillow
+numpy
+pytesseract
+opencv-python-headless
+scikit-image
+PyMuPDF
+Pillow
